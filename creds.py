@@ -1,1 +1,1 @@
-api_key = "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"
+api_key = "" # Agregar su usuario
