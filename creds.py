@@ -1,1 +1,0 @@
-api_key = "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" # Valor del api_key del API de OpenIA
